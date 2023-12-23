@@ -1,0 +1,7 @@
+{
+  "prettier.requireConfig": false,
+  "files.autoSave": "afterDelay",
+  "cSpell.words": ["Okechukwuemordi", "voks"],
+  "git.ignoreLimitWarning": true,
+  "DockerRun.DisableDockerrc": true
+}
